@@ -1,5 +1,5 @@
-title:       "This Is How Me Do It!"
-version:     "0010d---14-Feb-2021"
+title:       "OS211 Sistem Operasi"
+version:     "0014---15-Feb-2021"
 copyright:   "2021-2021"
 description: >- 
   Describe1.
@@ -7,16 +7,16 @@ description: >-
 # baseurl: "" # e.g. /blog
 # url: ""     # e.g. http://example.com
 google_analytics: "UA-89852122-6"
-author:           "J. Walker"
-address:          "Box 7, Mawitaan, Bangalla."
+author:           "C.B. Kadal"
+address:          "Pamulang"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://doit.vlsm.org/"
+urlweb:           "https://cbkadal.github.io/os211/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/doit"
-urlghpage:        "https://doit.vlsm.org/"
+urlgithub:        "https://github.com/cbkadal/os211/"
+urlghpage:        "https://cbkadal.github.io/os211/"
 keywords:         "jekyll, testing"
 github:           [metadata]
 
