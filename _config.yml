@@ -1,5 +1,5 @@
 title:       "Operating Systems 2021-1 (OS211)"
-version:     "0017---15-Feb-2021"
+version:     "0017a---15-Feb-2021"
 copyright:   "2021-2021"
 description: >- 
   Describe1.
@@ -7,7 +7,7 @@ description: >-
 # baseurl: "" # e.g. /blog
 # url: ""     # e.g. http://example.com
 google_analytics: "UA-89852122-6"
-author:           "C.B. Kadal"
+author:           "Cicak Bin Kadal"
 address:          "Pamulang"
 sitemap:          "true"
 plugins:
