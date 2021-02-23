@@ -3,13 +3,6 @@ layout: "layout"
 title:  "GitHub Page Configuration Files"
 ---
 
-### Makefile
-
-```
-(> Makefile <)
-```
-
-<br>
 ### _config.yml
 
 ```
@@ -30,6 +23,13 @@ title:  "GitHub Page Configuration Files"
 {% raw %}
 (> _layouts/layout.html <)
 {% endraw %}
+```
+
+<br>
+### Makefile
+
+```
+(> Makefile <)
 ```
 
 <br>
