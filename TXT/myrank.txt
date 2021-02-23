@@ -1,7 +1,4 @@
 # TOP 10 Rank
-ZCZC W00 cbkadal
-ZCZC W00 alibaba 
-ZCZC W00 kutakada
 ZCZC W01 alibaba 
 ZCZC W01 kutakada
 ZCZC W01 cbkadal
@@ -29,6 +26,3 @@ ZCZC W08 alibaba
 ZCZC W09 cbkadal
 ZCZC W09 alibaba 
 ZCZC W09 kutakada
-ZCZC W10 alibaba 
-ZCZC W10 kutakada
-ZCZC W10 cbkadal
