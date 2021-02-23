@@ -4,8 +4,7 @@ layout: "layout"
 
 Hello!
 
-This is Operating Systems 2021-1 (OS211) and
-I am {{ site.author }}.
+This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
 
 Qapla, Jolan Tru!
 
