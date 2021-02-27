@@ -7,187 +7,187 @@ permalink: /REPORT/
 [STATUS](../STATUS/)
 
 # W00: os211 report === ===
-### ==== Sat 27 Feb 12:23:33 WIB 2021 ====
+### ==== Sat 27 Feb 14:59:48 WIB 2021 ====
 <hr>
 ```
 GitHubAccount             LOG SCELE
 ====================================
-abdurrohmanjafar            0 X4LOG     2
-AdamSyauqi                  0 X4LOG     2
-adamyrayeuk                 0 X4LOG     2
-advistasyam                 0 X4LOG     2
-Ageng-Anugrah               0 X4LOG     2
-ahmadhaydar                 0 X4LOG     2
-aladster                    0 X4LOG     2
-AldiNFitrah                 0 X4LOG     2
-alfina-megasiwi             0 X4LOG     0
-AlifHazairin                0 X4LOG     2
-alifsaddid                  0 X4LOG     2
-alishayb                    0 X4LOG     2
-altschmerz                  0 X4LOG     2
-amandacarrisa               0 X4LOG     2
-amzufar                     0 X4LOG     2
-Andre-71                    0 X4LOG     2
-AndreSeptiano               0 X4LOG     2
-andrew-susanto              0 X4LOG     0
-angelindepthios             0 X4LOG     2
-anisfarhan                  0 X4LOG     2
-annisadevin                 0 X4LOG     2
-ansqee                      0 X4LOG     2
-antoniusanggito             0 X4LOG     2
-ardi-nusantara              0 X4LOG     2
-arroganthooman              0 X4LOG     2
-Arsyandatj              X3LOG     2
-aryaputr213                 0 X4LOG     2
+abdurrohmanjafar           85     2
+AdamSyauqi                 10     2
+adamyrayeuk                10     2
+advistasyam                30     2
+Ageng-Anugrah             205     2
+ahmadhaydar               323     2
+aladster                   10     2
+AldiNFitrah                20     2
+alfina-megasiwi           150     0
+AlifHazairin              253     2
+alifsaddid                160     2
+alishayb                  100     2
+altschmerz                 15     2
+amandacarrisa             220     2
+amzufar                    40     2
+Andre-71                   10     2
+AndreSeptiano             135     2
+andrew-susanto            160     0
+angelindepthios           724     2
+anisfarhan                125     2
+annisadevin               239     2
+ansqee                     40     2
+antoniusanggito            10     2
+ardi-nusantara             85     2
+arroganthooman            215     2
+Arsyandatj              X3LOG     1
+aryaputr213               250     2
 Aryuda-Oktawyandra      X3LOG     2
-asfiowilma                  0 X4LOG     2
-astriddiany                 0 X4LOG     2
-athiyafatihah               0 X4LOG     2
-azkafitria                  0 X4LOG     2
-azricot                     0 X4LOG     2
-basyirasabita               0 X4LOG     2
-bimabr                      0 X4LOG     2
-bintangdom                  0 X4LOG     2
-blopblipblap                0 X4LOG     2
-bltszr                      0 X4LOG     2
-BudiArb                     0 X4LOG     2
-calmeryan                   0 X4LOG     2
-cobrayyxx                   0 X4LOG     2
-Corfaitch                   0 X4LOG     2
-cornelita                   0 X4LOG     2
+asfiowilma                385     2
+astriddiany                17     2
+athiyafatihah             685     2
+azkafitria                 20     2
+azricot                   180     2
+basyirasabita             170     2
+bimabr                    175     2
+bintangdom                225     2
+blopblipblap              180     2
+bltszr                    395     2
+BudiArb                    10     2
+calmeryan                 148     2
+cobrayyxx                  30     2
+Corfaitch                 135     2
+cornelita                 190     2
 csq307                  X3LOG     2
-darren-ngoh                 0 X4LOG     2
-ddelvo                      0 X4LOG     2
-dewa251202                  0 X4LOG     2
-dirtboll                    0 X4LOG     2
-dnswd                       0 X4LOG     0
-ekojsalim                   0 X4LOG     2
-Etyaresa                    0 X4LOG     2
-Exqrch                      0 X4LOG     2
-fadhilrasendriya            0 X4LOG     2
-fadlia68                    0 X4LOG     2
-faishol01                   0 X4LOG     2
-faustaadp                   0 X4LOG     2
-fauziridwan1709             0 X4LOG     2
-fayaadbsa                   0 X4LOG     2
+darren-ngoh               240     2
+ddelvo                    130     2
+dewa251202                186     2
+dirtboll                 1850     2
+dnswd                     165     0
+ekojsalim                 125     2
+Etyaresa                  145     2
+Exqrch                    375     2
+fadhilrasendriya          447     2
+fadlia68                  200     2
+faishol01                 350     2
+faustaadp                 105     2
+fauziridwan1709             0     2
+fayaadbsa                  40     2
 fikriadidharma          X3LOG     2
-fredypasaud                 0 X4LOG     2
-freezetabs                  0 X4LOG     2
-FrhNzh                      0 X4LOG     2
-frsardhf                    0 X4LOG     2
-frz1110                     0 X4LOG     2
-fwibisono87                 0 X4LOG     2
-FXDROS                      0 X4LOG     2
-gabriel-enrique             0 X4LOG     2
-galacticor                  0 X4LOG     2
-ganiirsyadi                 0 X4LOG     2
-garyteofanus                0 X4LOG     2
-GerradND                    0 X4LOG     2
-ghifariaulia                0 X4LOG     2
-GhifariZR                   0 X4LOG     2
-gilangcy                    0 X4LOG     2
-hadihalimm                  0 X4LOG     2
-haikalSusanto               0 X4LOG     2
-handi91                     0 X4LOG     2
-hanifahaputri               0 X4LOG     2
-Hanifahreza                 0 X4LOG     2
-hanifanggawi                0 X4LOG     2
-hanifaudah                  0 X4LOG     2
-Hans-sss                    0 X4LOG     2
-haradijul                   0 X4LOG     2
-HardJoe                     0 X4LOG     2
-hilmy34                     0 X4LOG     2
-hockyy                      0 X4LOG     2
-Hori75                      0 X4LOG     2
-IanAndersenNg               0 X4LOG     2
-ikhsanpambayun              0 X4LOG     2
-IlmaMannix                  0 X4LOG     2
-IoriU                       0 X4LOG     2
-irfancen                    0 X4LOG     2
-JFernando11                 0 X4LOG     2
-johanesimarmata             0 X4LOG     2
-jojonicho                   0 X4LOG     2
-jsaonn                      0 X4LOG     2
-kalEl2001                   0 X4LOG     2
-kaysakay                    0 X4LOG     2
-KentaBisma                  0 X4LOG     2
-KevinAfiza                  0 X4LOG     2
-kevindharmawan              0 X4LOG     2
-kevin-UI2019                0 X4LOG     2
-kgtgeo                      0 X4LOG     2
-KristiantoD                 0 X4LOG     2
-luthfifahlevi               0 X4LOG     2
-machffud                    0 X4LOG     2
-mackarelfish                0 X4LOG     2
-marcianadin                 0 X4LOG     2
-mardianto-byte              0 X4LOG     2
-MarioSerano                 0 X4LOG     2
-memahafizh                  0 X4LOG     2
-mfadhlan98              X3LOG     2
-mfelixharyono               0 X4LOG     2
-mirsalsa                    0 X4LOG     2
-mkadit                      0 X4LOG     2
-monta1212                   0 X4LOG     2
-muadzaskar                  0 X4LOG     2
-muhammadhafizmm             0 X4LOG     2
-MuhammadRaviSH              0 X4LOG     2
-muzhaffaris                 0 X4LOG     2
-mzahranagung                0 X4LOG     2
-nabiladitaputri             0 X4LOG     2
-nadhirarafik                0 X4LOG     2
-nadifahsn                   0 X4LOG     2
-nadilatusifa12              0 X4LOG     2
-NaradhipaBhary              0 X4LOG     2
-natsyz                      0 X4LOG     2
-naufaladi35                 0 X4LOG     2
-nfrobby                     0 X4LOG     2
-Night1010                   0 X4LOG     2
-nisadn                      0 X4LOG     2
-ni-tami                     0 X4LOG     2
-nofamex                     0 X4LOG     2
-novihdn                     0 X4LOG     2
-Originica                   0 X4LOG     2
-Pinatnat                    0 X4LOG     2
-prajnapras19                0 X4LOG     2
-PWigunarta                  0 X4LOG     2
-RadhiansyaZ                 0 X4LOG     2
-radityarestan               0 X4LOG     2
-rafidirg                    0 X4LOG     2
+fredypasaud               255     2
+freezetabs                113     2
+FrhNzh                    134     2
+frsardhf                  110     2
+frz1110                    90     2
+fwibisono87               210     2
+FXDROS                    270     2
+gabriel-enrique           127     2
+galacticor                 30     2
+ganiirsyadi               220     2
+garyteofanus               10     2
+GerradND                 2280     2
+ghifariaulia               10     2
+GhifariZR                  10     2
+gilangcy                  127     2
+hadihalimm                110     2
+haikalSusanto              10     2
+handi91                   110     2
+hanifahaputri             780     2
+Hanifahreza                10     2
+hanifanggawi               10     2
+hanifaudah                240     2
+Hans-sss                  335     2
+haradijul                 240     2
+HardJoe                   440     2
+hilmy34                     0     2
+hockyy                    720     2
+Hori75                    120     2
+IanAndersenNg             142     2
+ikhsanpambayun            138     2
+IlmaMannix                 65     2
+IoriU                     265     2
+irfancen                  210     2
+JFernando11               160     2
+johanesimarmata           165     2
+jojonicho                 185     2
+jsaonn                     70     2
+kalEl2001                 125     2
+kaysakay                  130     2
+KentaBisma                 40     2
+KevinAfiza                 20     1
+kevindharmawan            182     2
+kevin-UI2019               30     2
+kgtgeo                     10     2
+KristiantoD               172     2
+luthfifahlevi             115     2
+machffud                  175     2
+mackarelfish               10     2
+marcianadin               295     2
+mardianto-byte            185     2
+MarioSerano                10     2
+memahafizh                140     2
+mfadhlan98              X3LOG     1
+mfelixharyono              40     2
+mirsalsa                  129     2
+mkadit                     20     2
+monta1212                 125     2
+muadzaskar                100     2
+muhammadhafizmm           130     2
+MuhammadRaviSH             53     2
+muzhaffaris                10     2
+mzahranagung               10     2
+nabiladitaputri           125     2
+nadhirarafik               10     2
+nadifahsn                  10     2
+nadilatusifa12            210     2
+NaradhipaBhary             10     2
+natsyz                     50     2
+naufaladi35                 0     2
+nfrobby                   145     2
+Night1010                 120     2
+nisadn                    125     2
+ni-tami                    30     2
+nofamex                   275     2
+novihdn                   120     2
+Originica                 135     2
+Pinatnat                   20     2
+prajnapras19              599     2
+PWigunarta                220     2
+RadhiansyaZ               126     2
+radityarestan             112     2
+rafidirg                  370     2
 rafigabhira             X3LOG     2
-RafiMoreno                  0 X4LOG     2
-rafimuhammad01              0 X4LOG     2
-raflibangsawan              0 X4LOG     2
-rajasihombing               0 X4LOG     2
-ranianhanami                0 X4LOG     2
-raryasdya                   0 X4LOG     2
-rheznandyae                 0 X4LOG     2
-rilabagus                   0 X4LOG     2
-risw24                      0 X4LOG     2
-rizkymusyaffa               0 X4LOG     2
-saepasomba                  0 X4LOG     2
-samuelmjn                   0 X4LOG     2
-Sasfort                     0 X4LOG     2
-shafiraputri01              0 X4LOG     2
-shanikatysha                0 X4LOG     2
-SinusCosinusTangen          0 X4LOG     2
-soniarahma27                0 X4LOG     2
-stevensim226                0 X4LOG     2
+RafiMoreno                 10     2
+rafimuhammad01             43     2
+raflibangsawan             95     2
+rajasihombing              35     2
+ranianhanami              160     2
+raryasdya                 126     2
+rheznandyae               105     2
+rilabagus                 100     2
+risw24                     10     2
+rizkymusyaffa              80     2
+saepasomba                120     2
+samuelmjn                 125     2
+Sasfort                   360     2
+shafiraputri01            240     2
+shanikatysha              130     2
+SinusCosinusTangen        253     2
+soniarahma27              115     2
+stevensim226              605     2
 sunnysani               X3LOG     2
 tarameccaluna           X3LOG     2
-Theophilus-Lukas            0 X4LOG     2
-Trigonometr1                0 X4LOG     2
-tsanaativa                  0 X4LOG     2
-VadimBhirawa                0 X4LOG     2
-valentinohp                 0 X4LOG     2
-vandhya                     0 X4LOG     2
-Veniche                     0 X4LOG     2
-X1non                       0 X4LOG     2
+Theophilus-Lukas          170     2
+Trigonometr1              352     2
+tsanaativa                 90     2
+VadimBhirawa              375     2
+valentinohp                10     2
+vandhya                   220     2
+Veniche                    10     2
+X1non                     115     2
 YasyfaWiwaha            X3LOG     2
-yosuahutagalung             0 X4LOG     2
-zahrahrp                    0 X4LOG     2
-zaki-indra                  0 X4LOG     2
-Zsaschz                     0 X4LOG     2
-zulfankasilas               0 X4LOG     2
+yosuahutagalung           124     2
+zahrahrp                  220     2
+zaki-indra                 15     2
+Zsaschz                   210     2
+zulfankasilas             140     2
 ```
 
 <hr>
