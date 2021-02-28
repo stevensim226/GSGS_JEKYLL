@@ -40,7 +40,7 @@
 .column {
   float:            left;
   display:          inline-block;
-  background:       #808080;
+  background:       #dbdbdb;
   height:           130px;
   width:            100%;
   padding-top:      10px;
@@ -111,8 +111,8 @@
 }
 
 .navbar {
-  background-color: #222222;
-  color:            #FFFFFF;
+  background-color: #e4e4e4;
+  color:            #222222;
   font-size:        0.7em;
 }
 
