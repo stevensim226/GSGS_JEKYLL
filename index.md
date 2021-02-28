@@ -2,9 +2,10 @@
 layout: "layout"
 ---
 
-Hello!
+Hello! こんにちは!
 
 This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
 
-Qapla, Jolan Tru!<br>[====](GitHubPages/)[======](REPORT/)
-
+Qapla, Jolan Tru!
+さようなら!
+再見!
