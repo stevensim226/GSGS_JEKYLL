@@ -27,11 +27,11 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: black;
 }
 
 .container a:hover {
-  color: #f0f0f0;
+  color: #424242;
 }
 
 .row {
