@@ -12,5 +12,5 @@ Qapla, Jolan Tru!
 再見!
 
 URLs:
-GitHub repo (https://github.com/stevensim226/os211)[https://github.com/stevensim226/os211]
-OS Logs (https://stevensim226.github.io/os211/TXT/mylog.txt)[https://stevensim226.github.io/os211/TXT/mylog.txt]
+GitHub repo [https://github.com/stevensim226/os211](https://github.com/stevensim226/os211)
+OS Logs [https://stevensim226.github.io/os211/TXT/mylog.txt](https://stevensim226.github.io/os211/TXT/mylog.txt)
