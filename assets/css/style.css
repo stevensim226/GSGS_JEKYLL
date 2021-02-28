@@ -9,13 +9,13 @@
 }
 
 .plainclass {
-  color:            white;
-  background-color: #001030;
+  color:            #001030;
+  background-color: white;
 }
 
 .plainclass1 {
-  color:            white;
-  background-color: black;
+  color:            black;
+  background-color: white;
 }
 
 .container {
